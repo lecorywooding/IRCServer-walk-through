@@ -27,7 +27,7 @@ max_nick_length = 15;
 >The lines above allowed me to modify the number of users to 7 and allow only 15< as nickname length for the chat
 
 # Commit the changes
-- If you used 'vim' you can now enter ":wq!" to write the contents to the conf file and quit the 'vim' editor
+> If you used 'vim' you can now enter ":wq!" to write the contents to the conf file and quit the 'vim' editor
 
 #  Restart 'ircd-hybrid'
 ```sh
